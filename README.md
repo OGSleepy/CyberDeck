@@ -141,14 +141,6 @@ Works in all modern browsers with:
 - IndexedDB for localStorage
 - ES2020+ JavaScript features
 
-## Development
-
-Built with [Shakespeare](https://shakespeare.diy) - an AI-powered website builder.
-
 ## License
 
 MIT License - see project files for details
-
----
-
-**Vibed with [Shakespeare](https://shakespeare.diy)** ⚡
